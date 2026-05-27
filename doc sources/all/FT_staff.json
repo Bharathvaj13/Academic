@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Dr. D. Raja", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 2, "name": "Dr. S. Priyalatha", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 3, "name": "Dr. K. Mani", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 4, "name": "Dr. S. M. Udayakrithika", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 5, "name": "Mr. C. Rajeshkumar", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 6, "name": "Ms. M. Rashma", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 7, "name": "Mr. M. R. Karthikeyan", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 8, "name": "Ms. G. T. Pavithra Shen", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 9, "name": "Dr. V. Thirumurugan", "dept": "Fashion Technology", "specialization": "Fashion Technology" },
+  { "id": 10, "name": "Mr. S. Janarthanan", "dept": "Fashion Technology", "specialization": "Fashion Technology" }
+]

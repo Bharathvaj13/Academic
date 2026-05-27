@@ -1,0 +1,145 @@
+{
+  "regulation": "2023",
+  "department": "Electrical and Electronics Engineering",
+  "semester": "5",
+  "institution": "Sona College of Technology, Salem",
+  "courses": {
+    "theory_courses": [
+      {
+        "s_no": 1,
+        "course_code": "U23EE501",
+        "course_title": "Data Structures and Algorithms",
+        "category": "ES",
+        "L": 2,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 2,
+        "course_code": "U23EE502",
+        "course_title": "Electrical Machine Design",
+        "category": "PC",
+        "L": 2,
+        "T": 1,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 3,
+        "course_code": "U23EE503",
+        "course_title": "Power Electronics",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 4,
+        "course_code": "U23EE504",
+        "course_title": "Control Systems",
+        "category": "PC",
+        "L": 2,
+        "T": 1,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 5,
+        "course_code": "U23EE505",
+        "course_title": "Total Quality Management",
+        "category": "HS",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 6,
+        "course_code": "noc25-cs147",
+        "course_title": "NPTEL: Introduction to Internet of Things",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 7,
+        "course_code": "U23GE502",
+        "course_title": "Audit Course: Environment and Climate Science",
+        "category": "AC",
+        "L": 2,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 0,
+        "contact_hours": 30
+      }
+    ],
+    "practical_courses": [
+      {
+        "s_no": 8,
+        "course_code": "U23EE506",
+        "course_title": "Control Systems Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 3,
+        "J": 0,
+        "credits": 1.5,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 9,
+        "course_code": "U23EE507",
+        "course_title": "Power Electronics Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 3,
+        "J": 0,
+        "credits": 1.5,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 10,
+        "course_code": "U23EE508",
+        "course_title": "Mini Project - II",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 0,
+        "J": 2,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 11,
+        "course_code": "U23GE501",
+        "course_title": "Soft Skills and Aptitude - III",
+        "category": "EEC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      }
+    ],
+    "total_credits": 23
+  }
+}

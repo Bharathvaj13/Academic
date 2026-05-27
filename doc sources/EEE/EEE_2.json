@@ -1,0 +1,136 @@
+{
+  "regulation": "2023",
+  "department": "Electrical and Electronics Engineering",
+  "semester": "2",
+  "institution": "Sona College of Technology, Salem",
+  "courses": {
+    "theory_courses": [
+      {
+        "s_no": 1,
+        "course_code": "U23ENG201A",
+        "course_title": "Technical English",
+        "category": "HS",
+        "L": 2,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 2,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 2,
+        "course_code": "U23MAT202B",
+        "course_title": "Transforms and Differential Equations",
+        "category": "BS",
+        "L": 3,
+        "T": 1,
+        "P": 0,
+        "J": 0,
+        "credits": 4,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 3,
+        "course_code": "U23PHY203D",
+        "course_title": "Engineering Physics",
+        "category": "BS",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 4,
+        "course_code": "U23EE201",
+        "course_title": "Electrical Circuit Analysis",
+        "category": "PC",
+        "L": 3,
+        "T": 1,
+        "P": 0,
+        "J": 0,
+        "credits": 4,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 5,
+        "course_code": "U23ME204",
+        "course_title": "Thermodynamics and Fluid Machines",
+        "category": "ES",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 6,
+        "course_code": "U23TAM201",
+        "course_title": "தமிழரும் தொழில்நுட்பமும் / Tamils and Technology",
+        "category": "HS",
+        "L": 1,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 15
+      },
+      {
+        "s_no": 7,
+        "course_code": "U23GE201",
+        "course_title": "Basic Aptitude - II",
+        "category": "AC",
+        "L": 2,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 0,
+        "contact_hours": 30
+      }
+    ],
+    "practical_courses": [
+      {
+        "s_no": 8,
+        "course_code": "U23PHL210B",
+        "course_title": "Engineering Physics Laboratory",
+        "category": "BS",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 9,
+        "course_code": "U23EE202",
+        "course_title": "Electrical Circuits Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 3,
+        "J": 0,
+        "credits": 1.5,
+        "contact_hours": 45
+      }
+    ],
+    "optional_language_courses": {
+      "category": "OL",
+      "L": 1,
+      "T": 0,
+      "P": 0,
+      "J": 0,
+      "credits": 1,
+      "contact_hours": 15,
+      "courses": [
+        { "course_code": "U23OL1201", "course_title": "French - II" },
+        { "course_code": "U23OL1202", "course_title": "German - II" },
+        { "course_code": "U23OL1203", "course_title": "Japanese - II" },
+        { "course_code": "U23OL1204", "course_title": "Korean - II" }
+      ]
+    },
+    "total_credits": 19.5
+  }
+}

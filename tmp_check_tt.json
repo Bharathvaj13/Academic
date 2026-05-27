@@ -1,0 +1,138 @@
+{
+  "timetables": [
+    {
+      "id": "38af94e4-5931-4da9-b4ee-35fc93617045",
+      "course_id": "U23CS605",
+      "staff_id": "1c48898b-f597-45d0-99d7-979391f2c7b6",
+      "day_of_week": "Friday",
+      "time_slot": 1,
+      "section": "A"
+    },
+    {
+      "id": "1d3b4775-9ff5-43c4-baa7-6ed60fc47c60",
+      "course_id": "U23CS605",
+      "staff_id": "1c48898b-f597-45d0-99d7-979391f2c7b6",
+      "day_of_week": "Friday",
+      "time_slot": 2,
+      "section": "A"
+    },
+    {
+      "id": "f2aa305f-cfdd-4395-8f03-d98da5b5addb",
+      "course_id": "U23CS605",
+      "staff_id": "1c48898b-f597-45d0-99d7-979391f2c7b6",
+      "day_of_week": "Friday",
+      "time_slot": 3,
+      "section": "A"
+    },
+    {
+      "id": "9e01e2ed-f45e-410c-84d9-cacd397cfaba",
+      "course_id": "U23CS605",
+      "staff_id": "1c48898b-f597-45d0-99d7-979391f2c7b6",
+      "day_of_week": "Friday",
+      "time_slot": 4,
+      "section": "A"
+    },
+    {
+      "id": "4a9c709f-6758-4c96-b5df-4c19959431ce",
+      "course_id": "U23GE602K",
+      "staff_id": "3df5f6cb-109f-46f0-848b-a357102d11a8",
+      "day_of_week": "Monday",
+      "time_slot": 1,
+      "section": "A"
+    }
+  ],
+  "staff_tt": [
+    {
+      "id": "38af94e4-5931-4da9-b4ee-35fc93617045",
+      "course_id": "U23CS605",
+      "staff_id": "1c48898b-f597-45d0-99d7-979391f2c7b6",
+      "day_of_week": "Friday",
+      "time_slot": 1,
+      "section": "A",
+      "courses": {
+        "j": 0,
+        "l": 0,
+        "p": 2,
+        "t": 0,
+        "id": "U23CS605",
+        "name": "Competitive Programming Laboratory",
+        "type": "Practical",
+        "year": 1,
+        "hours": 30,
+        "credits": 1,
+        "semester": 6,
+        "weekly_hours": 2,
+        "department_id": "3e231686-deae-4d5f-9609-f9946d104751"
+      }
+    },
+    {
+      "id": "1d3b4775-9ff5-43c4-baa7-6ed60fc47c60",
+      "course_id": "U23CS605",
+      "staff_id": "1c48898b-f597-45d0-99d7-979391f2c7b6",
+      "day_of_week": "Friday",
+      "time_slot": 2,
+      "section": "A",
+      "courses": {
+        "j": 0,
+        "l": 0,
+        "p": 2,
+        "t": 0,
+        "id": "U23CS605",
+        "name": "Competitive Programming Laboratory",
+        "type": "Practical",
+        "year": 1,
+        "hours": 30,
+        "credits": 1,
+        "semester": 6,
+        "weekly_hours": 2,
+        "department_id": "3e231686-deae-4d5f-9609-f9946d104751"
+      }
+    },
+    {
+      "id": "f2aa305f-cfdd-4395-8f03-d98da5b5addb",
+      "course_id": "U23CS605",
+      "staff_id": "1c48898b-f597-45d0-99d7-979391f2c7b6",
+      "day_of_week": "Friday",
+      "time_slot": 3,
+      "section": "A",
+      "courses": {
+        "j": 0,
+        "l": 0,
+        "p": 2,
+        "t": 0,
+        "id": "U23CS605",
+        "name": "Competitive Programming Laboratory",
+        "type": "Practical",
+        "year": 1,
+        "hours": 30,
+        "credits": 1,
+        "semester": 6,
+        "weekly_hours": 2,
+        "department_id": "3e231686-deae-4d5f-9609-f9946d104751"
+      }
+    },
+    {
+      "id": "9e01e2ed-f45e-410c-84d9-cacd397cfaba",
+      "course_id": "U23CS605",
+      "staff_id": "1c48898b-f597-45d0-99d7-979391f2c7b6",
+      "day_of_week": "Friday",
+      "time_slot": 4,
+      "section": "A",
+      "courses": {
+        "j": 0,
+        "l": 0,
+        "p": 2,
+        "t": 0,
+        "id": "U23CS605",
+        "name": "Competitive Programming Laboratory",
+        "type": "Practical",
+        "year": 1,
+        "hours": 30,
+        "credits": 1,
+        "semester": 6,
+        "weekly_hours": 2,
+        "department_id": "3e231686-deae-4d5f-9609-f9946d104751"
+      }
+    }
+  ]
+}

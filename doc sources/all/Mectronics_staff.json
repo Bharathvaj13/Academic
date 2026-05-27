@@ -1,0 +1,13 @@
+[
+  { "id": 1, "name": "Dr.P.Suresh", "dept": "Mechatronics", "specialization": "Mechatronics" },
+  { "id": 2, "name": "Dr.K.G.Saravanan", "dept": "Mechatronics", "specialization": "Computer Aided Design" },
+  { "id": 3, "name": "Dr.M.N.Vimal Kumar", "dept": "Mechatronics", "specialization": "Applied Electronics" },
+  { "id": 4, "name": "Dr.J.Thiyagarajan", "dept": "Mechatronics", "specialization": "Video Processing" },
+  { "id": 5, "name": "Dr.A.Sivalingam", "dept": "Mechatronics", "specialization": "Thermal Engineering" },
+  { "id": 6, "name": "Dr.M.Lavanya", "dept": "Mechatronics", "specialization": "Power System Engineering" },
+  { "id": 7, "name": "Prof.G.Sudharsan", "dept": "Mechatronics", "specialization": "Mechatronics" },
+  { "id": 8, "name": "Dr.N.Arul", "dept": "Mechatronics", "specialization": "Design and Automation" },
+  { "id": 9, "name": "Prof.P.Mohankumar", "dept": "Mechatronics", "specialization": "Mechatronics" },
+  { "id": 10, "name": "Prof.R.Vinoth", "dept": "Mechatronics", "specialization": "Mechatronics" },
+  { "id": 11, "name": "Dr S Prakash", "dept": "Mechatronics", "specialization": "Mechatronics" }
+]

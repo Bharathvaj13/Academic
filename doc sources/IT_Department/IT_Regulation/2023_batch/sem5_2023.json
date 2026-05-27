@@ -1,0 +1,156 @@
+{
+  "regulation": "2023",
+  "department": "Information Technology",
+  "semester": "5",
+  "courses": {
+    "theory_courses": [
+      {
+        "s_no": 1,
+        "course_code": "U23IT501",
+        "course_title": "Computer Networks",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 2,
+        "course_code": "U23IT502",
+        "course_title": "Database Management Systems",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 3,
+        "course_code": "U23IT503",
+        "course_title": "Theory of Computation",
+        "category": "PC",
+        "L": 4,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 4,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 4,
+        "course_code": "noc25-cs147",
+        "course_title": "NPTEL: Introduction to Internet of Things",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 5,
+        "course_code": "U23IT940",
+        "course_title": "Business Intelligence",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 6,
+        "course_code": "U23IT952",
+        "course_title": "Cyber Security",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 7,
+        "course_code": "U23IT953",
+        "course_title": "Data Warehousing and Data Mining",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 8,
+        "course_code": "U23IT972",
+        "course_title": "Quantum Computing",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 60
+      }
+    ],
+    "practical_courses": [
+      {
+        "s_no": 9,
+        "course_code": "U23IT504",
+        "course_title": "Database Management Systems Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1.5,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 10,
+        "course_code": "U23IT505",
+        "course_title": "Mobile Application Development Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1.5,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 11,
+        "course_code": "U23IT506",
+        "course_title": "Internet of Things Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 12,
+        "course_code": "U23GE501",
+        "course_title": "Soft Skills and Aptitude-III",
+        "category": "EEC",
+        "L": 0,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 0,
+        "contact_hours": 30
+      }
+    ],
+    "total_credits": 24
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "regulation": "2023",
+  "department": "Mechanical Engineering",
+  "semester": "6",
+  "institution": "Sona College of Technology, Salem",
+  "courses": {
+    "theory_courses": [
+      {
+        "s_no": 1,
+        "course_code": "U23ME601",
+        "course_title": "Operations Research",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 2,
+        "course_code": "U23ME602",
+        "course_title": "Design of Transmission Systems",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 3,
+        "course_code": "U23ME603",
+        "course_title": "Industrial Automation",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 4,
+        "course_group": "Professional Elective - I",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45,
+        "courses": [
+          {
+            "course_code": "U23ME941",
+            "course_title": "Energy Conservation In Industries"
+          },
+          {
+            "course_code": "U23ME926",
+            "course_title": "Data Analytics"
+          },
+          {
+            "course_code": "U23ME939",
+            "course_title": "Production Planning and Control"
+          }
+        ]
+      },
+      {
+        "s_no": 5,
+        "course_group": "Professional Elective - II",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45,
+        "courses": [
+          {
+            "course_code": "U23ME942",
+            "course_title": "Surface Engineering and Coating Technologies"
+          },
+          {
+            "course_code": "U23ME943",
+            "course_title": "Hydraulics and Pneumatics"
+          },
+          {
+            "course_code": "U23ME936",
+            "course_title": "Industrial Engineering and Management"
+          }
+        ]
+      },
+      {
+        "s_no": 6,
+        "course_group": "Open Elective",
+        "category": "OE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45,
+        "courses": [
+          { "course_code": "U23ADS1003", "course_title": "Software Engineering" },
+          { "course_code": "U23BM1002", "course_title": "Basic Life Support" },
+          { "course_code": "U23BM1004", "course_title": "Hospital Management" },
+          { "course_code": "U23CE1008", "course_title": "Municipal Solid Waste Management" },
+          { "course_code": "U23CE1009", "course_title": "Energy Efficiency and Green Building" },
+          { "course_code": "U23CS1010", "course_title": "Cloud Computing" },
+          { "course_code": "U23EC1009", "course_title": "Sensors and Smart Structures Technologies" },
+          { "course_code": "U23EE1013", "course_title": "Energy Conservation and Auditing" },
+          { "course_code": "U23EE1021", "course_title": "Innovation, IPR and Entrepreneurship Development" },
+          { "course_code": "U23FT1001", "course_title": "Fundamentals of Fashion Design" },
+          { "course_code": "U23IT1002", "course_title": "Introduction to Database Technology" },
+          { "course_code": "U23MC1008", "course_title": "Fundamentals of Robotics" },
+          { "course_code": "U23MC1009", "course_title": "Smart Automation" }
+        ]
+      },
+      {
+        "s_no": 7,
+        "course_code": "U23GE602B",
+        "course_title": "Comprehension",
+        "category": "AC",
+        "L": 1,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 15
+      }
+    ],
+    "practical_courses": [
+      {
+        "s_no": 8,
+        "course_code": "U23ME604",
+        "course_title": "Automation and Simulation Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "J": 0,
+        "credits": 2,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 9,
+        "course_code": "U23ME605",
+        "course_title": "Computer Aided Analysis Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "J": 0,
+        "credits": 2,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 10,
+        "course_code": "U23ME606",
+        "course_title": "Mini Project",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 0,
+        "J": 2,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 11,
+        "course_code": "U23GE601",
+        "course_title": "Soft Skills and Aptitude - IV",
+        "category": "EEC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      }
+    ],
+    "total_credits": 25
+  }
+}

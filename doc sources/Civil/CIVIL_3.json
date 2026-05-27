@@ -1,0 +1,133 @@
+{
+  "regulation": "2023",
+  "department": "Civil Engineering",
+  "semester": "3",
+  "institution": "Sona College of Technology, Salem",
+  "courses": {
+    "theory_courses": [
+      {
+        "s_no": 1,
+        "course_code": "U23MAT301A",
+        "course_title": "Statistics and Numerical Methods",
+        "category": "BS",
+        "L": 3,
+        "T": 1,
+        "P": 0,
+        "J": 0,
+        "credits": 4,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 2,
+        "course_code": "U23CE301",
+        "course_title": "Strength of Materials - I",
+        "category": "PC",
+        "L": 3,
+        "T": 1,
+        "P": 0,
+        "J": 0,
+        "credits": 4,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 3,
+        "course_code": "U23CE302",
+        "course_title": "Fluid Mechanics and Hydraulics Engineering",
+        "category": "PC",
+        "L": 3,
+        "T": 1,
+        "P": 0,
+        "J": 0,
+        "credits": 4,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 4,
+        "course_code": "U23CE303",
+        "course_title": "Surveying and Field Applications",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 4,
+        "contact_hours": 75
+      },
+      {
+        "s_no": 5,
+        "course_code": "U23CE304",
+        "course_title": "Construction Materials and Practices",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 6,
+        "course_code": "noc24-mg72",
+        "course_title": "NPTEL: Design Thinking - A Primer",
+        "category": "ES",
+        "L": 1,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 15
+      },
+      {
+        "s_no": 7,
+        "course_code": "U23GE302",
+        "course_title": "Audit Course: Environment and Climate Science",
+        "category": "AC",
+        "L": 2,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 0,
+        "contact_hours": 30
+      }
+    ],
+    "practical_courses": [
+      {
+        "s_no": 8,
+        "course_code": "U23CE305",
+        "course_title": "Computer Aided Building Planning and Modeling",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 9,
+        "course_code": "U23ENG301",
+        "course_title": "Communication Skills Laboratory",
+        "category": "HS",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 10,
+        "course_code": "U23GE301",
+        "course_title": "Soft Skills and Aptitude - I",
+        "category": "EFC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      }
+    ],
+    "total_credits": 23
+  }
+}

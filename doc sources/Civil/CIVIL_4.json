@@ -1,0 +1,133 @@
+{
+  "regulation": "2023",
+  "department": "Civil Engineering",
+  "semester": "4",
+  "institution": "Sona College of Technology, Salem",
+  "courses": {
+    "theory_courses": [
+      {
+        "s_no": 1,
+        "course_code": "U23CE401",
+        "course_title": "Strength of Materials - II",
+        "category": "PC",
+        "L": 3,
+        "T": 1,
+        "P": 0,
+        "J": 0,
+        "credits": 4,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 2,
+        "course_code": "U23CE402",
+        "course_title": "Transportation Engineering",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 3,
+        "course_code": "U23CE403",
+        "course_title": "Hydrology and Irrigation Engineering",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 4,
+        "course_code": "U23CE404",
+        "course_title": "Environmental Engineering and its Applications",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 2,
+        "credits": 4,
+        "contact_hours": 75
+      },
+      {
+        "s_no": 5,
+        "course_code": "U23CE901",
+        "course_title": "Elements of Building Planning",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 6,
+        "course_code": "U23GE402",
+        "course_title": "Audit Course: Essence of Indian Traditional Knowledge",
+        "category": "AC",
+        "L": 2,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 0,
+        "contact_hours": 30
+      }
+    ],
+    "practical_courses": [
+      {
+        "s_no": 8,
+        "course_code": "U23CE405",
+        "course_title": "Fluid Mechanics Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 9,
+        "course_code": "U23CE406",
+        "course_title": "Environmental Engineering Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 10,
+        "course_code": "U23CE407",
+        "course_title": "Materials Testing Laboratory",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 11,
+        "course_code": "U23GE401",
+        "course_title": "Soft Skills and Aptitude - II",
+        "category": "EEC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      }
+    ],
+    "total_credits": 21
+  }
+}

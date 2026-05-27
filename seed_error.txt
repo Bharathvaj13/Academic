@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "D:\GitDesk\academia\run_seed.py", line 4, in <module>
+    exec(f.read())
+  File "<string>", line 121, in <module>
+  File "C:\Users\kanef\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\postgrest\_sync\request_builder.py", line 53, in execute
+    raise APIError(dict(json_obj))
+postgrest.exceptions.APIError: {'message': 'invalid input syntax for type integer: "1.5"', 'code': '22P02', 'hint': None, 'details': None}

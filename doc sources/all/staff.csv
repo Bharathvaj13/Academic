@@ -1,0 +1,54 @@
+id,name,department_id,specialization,max_courses,max_hours,courses_assigned,hours
+CSE01,"Dr.B.Sathiyabhama",YOUR-DEPT-UUID-HERE,"Data Mining and Big Data Analytics, Computational Intelligence, Health Informatics, Data Structures, Algorithm Analysis, Bioinformatics, Compiler Design and Optimization",5,25,0,0
+CSE02,"Dr.A.C.Kaladevi",YOUR-DEPT-UUID-HERE,"Big Data Technologies and Cloud Computing",5,25,0,0
+CSE03,"Dr.S.Sakthivel",YOUR-DEPT-UUID-HERE,"Image processing, Network Security, Wireless Sensor Network",5,25,0,0
+CSE04,"Dr.J.Jayanthi",YOUR-DEPT-UUID-HERE,"Software Engineering, Artificial Intelligence, Database Management System, Machine Learning, Data Science, Software Testing",5,25,0,0
+CSE05,"Dr.R.Sivakami",YOUR-DEPT-UUID-HERE,"Artificial Intelligence, IoT, Mobile Computing, Network Security, Data Science, ML and Blockchain Technology",5,25,0,0
+CSE06,"Dr.D.Balamurugan",YOUR-DEPT-UUID-HERE,"Network Security, IoT, Wireless Networks",5,25,0,0
+CSE07,"Dr.V.Nandini",YOUR-DEPT-UUID-HERE,"NLP, Machine Learning",5,25,0,0
+CSE08,"Dr.D.Vidyabarathi",YOUR-DEPT-UUID-HERE,"Machine Learning, Deep Learning, Data Science, Optimization",5,25,0,0
+CSE09,"Dr.K.C.Rajeswari",YOUR-DEPT-UUID-HERE,"NLP, Speech Processing, Language Processing and Machine Learning",5,25,0,0
+CSE10,"Dr.S.Anitha Elavarasi",YOUR-DEPT-UUID-HERE,"Machine Learning, Deep Learning, Operating System, Database Management System",5,25,0,0
+CSE11,"Dr.A.Prithiviraj",YOUR-DEPT-UUID-HERE,"Data Structures, Algorithmic Problem Solving, Computer Networks, Mobile Computing, Network Security, Wireless Networks, Machine Learning, Ethical Hacking, Information Security",5,25,0,0
+CSE12,"Dr.T.Sathiya",YOUR-DEPT-UUID-HERE,"Machine Learning and Image Analytics",5,25,0,0
+CSE13,"Dr.J.Dhayanithi",YOUR-DEPT-UUID-HERE,"Deep Learning, Full Stack Developer",5,25,0,0
+CSE14,"Dr.P.Thiyagarajan",YOUR-DEPT-UUID-HERE,"Wireless Sensor Networks, Artificial Intelligence, Machine Learning, Cloud Computing, Programming Languages, Analysis of Algorithms",5,25,0,0
+CSE15,"Dr.R.Vasanthi",YOUR-DEPT-UUID-HERE,"Neural Networks, Ubiquitous Computing, Artificial Intelligence",5,25,0,0
+CSE16,"Dr.R.Reenadevi",YOUR-DEPT-UUID-HERE,"Machine Learning and Deep Learning",5,25,0,0
+CSE17,"Dr.G.Kirubashri",YOUR-DEPT-UUID-HERE,"Wireless Sensor Networks, Optimization Techniques, Machine Learning",5,25,0,0
+CSE18,"Mr.N.Basker",YOUR-DEPT-UUID-HERE,"Software Engineering",5,25,0,0
+CSE19,"Ms.S.Theetchenya",YOUR-DEPT-UUID-HERE,"Data Mining, Machine Learning, Deep Learning",5,25,0,0
+CSE20,"Dr.G.Vidhya",YOUR-DEPT-UUID-HERE,"Network Security, Cloud Computing, IoT",5,25,0,0
+CSE21,"Ms.P.Ramya",YOUR-DEPT-UUID-HERE,"Machine Learning, Data Mining",5,25,0,0
+CSE22,"Dr.T.K.Revathi",YOUR-DEPT-UUID-HERE,"Big Data Analytics, Machine Learning, Deep Learning",5,25,0,0
+CSE23,"Dr.R.Priyadharshini",YOUR-DEPT-UUID-HERE,"Artificial Intelligence, Internet of Things",5,25,0,0
+CSE24,"Ms.K.S.Jayareka",YOUR-DEPT-UUID-HERE,"Image Processing, Artificial Intelligence, Deep Learning",5,25,0,0
+CSE25,"Ms.P.Bhuvaneswari",YOUR-DEPT-UUID-HERE,"Machine Learning, Software Engineering",5,25,0,0
+CSE26,"Ms.S.K.Fathima",YOUR-DEPT-UUID-HERE,"Deep Learning, Internet of Things",5,25,0,0
+CSE27,"Ms.G.Sudha",YOUR-DEPT-UUID-HERE,"Cloud Computing, Cryptography and Network Security",5,25,0,0
+CSE28,"Ms.P.Ramya Paneerselvam",YOUR-DEPT-UUID-HERE,"CSE",5,25,0,0
+CSE29,"Ms.V.Vinodhini",YOUR-DEPT-UUID-HERE,"Healthcare Data Analytics, Machine Learning, Deep Learning",5,25,0,0
+CSE30,"Ms.S.Pournima",YOUR-DEPT-UUID-HERE,"Computer Science and Engineering",5,25,0,0
+CSE31,"Mr.M.Mohammed Ibrahim",YOUR-DEPT-UUID-HERE,"Artificial Intelligence & Machine Learning, Internet of Things (IoT), Networks, Data Analytics",5,25,0,0
+CSE32,"Ms.V.Lathika",YOUR-DEPT-UUID-HERE,"Data Mining, Computer Networks, Machine Learning",5,25,0,0
+CSE33,"Dr.B.Sindhu Saranya",YOUR-DEPT-UUID-HERE,"Medical Image Processing, Machine Learning, Cloud Computing",5,25,0,0
+CSE34,"Ms.R.Sowndharya",YOUR-DEPT-UUID-HERE,"Artificial Intelligence, Machine Learning, Deep Learning",5,25,0,0
+CSE35,"Mr.M.Balamurugan",YOUR-DEPT-UUID-HERE,"Deep Learning, Computer Vision Image Processing",5,25,0,0
+CSE36,"Ms.S.Padmavathy",YOUR-DEPT-UUID-HERE,"Machine Learning, Network Security",5,25,0,0
+CSE37,"Ms.K.Pavithra",YOUR-DEPT-UUID-HERE,"Machine Learning, Deep Learning",5,25,0,0
+CSE38,"Mr.Y Naveen Raj",YOUR-DEPT-UUID-HERE,"Java, Python, C, C++, App Development Frameworks, Data Structures, Web Services, Data Analysis",5,25,0,0
+CSE39,"Ms.S.Lavanya",YOUR-DEPT-UUID-HERE,"Data Structures, Computer Networks, Machine Learning, Internet of Things",5,25,0,0
+CSE40,"Ms.B.Shibi",YOUR-DEPT-UUID-HERE,"Natural Language Processing, Machine Learning, Deep Learning",5,25,0,0
+CSE41,"Ms.S.Asha",YOUR-DEPT-UUID-HERE,"C Programming, Deep Learning, Java, Foundation of Data Science",5,25,0,0
+CSE42,"Ms.S.L.Swarna",YOUR-DEPT-UUID-HERE,"Data Analytics, Cloud Computing",5,25,0,0
+CSE43,"Ms.S.Brindasri",YOUR-DEPT-UUID-HERE,"CSE",5,25,0,0
+CSE44,"Dr.R.Sangeetha",YOUR-DEPT-UUID-HERE,"Authentication Protocols, Wireless Sensor Networks",5,25,0,0
+CSE45,"Ms.K.Theivanai",YOUR-DEPT-UUID-HERE,"CSE",5,25,0,0
+CSE46,"Ms.A.Thamaraiselvi",YOUR-DEPT-UUID-HERE,"Wireless Sensor Networks, Deep Learning, Machine Learning, Design Thinking",5,25,0,0
+CSE47,"Mr.M.Narendran",YOUR-DEPT-UUID-HERE,"Wireless Sensor Networks, Deep Learning, Machine Learning, Quantum Computing, Data Science",5,25,0,0
+CSE48,"Dr.N.Muthurasu",YOUR-DEPT-UUID-HERE,"Deep Learning, Machine Learning, Data Science",5,25,0,0
+CSE49,"Ms.P.Bhuvaneswari",YOUR-DEPT-UUID-HERE,"Front-end Development, Web Design, Automation Testing, Manual Testing, WordPress",5,25,0,0
+CSE50,"Ms.M.Yuvarani",YOUR-DEPT-UUID-HERE,"Deep Learning, Machine Learning, Data Science",5,25,0,0
+CSE51,"Ms.R.Priyadharsini",YOUR-DEPT-UUID-HERE,"Wireless Sensor Networks, Cloud Computing, Data Science",5,25,0,0
+CSE52,"Ms.K.Kowsalyadevi",YOUR-DEPT-UUID-HERE,"CSE",5,25,0,0
+CSE53,"Ms.T.Bhuvaneswari",YOUR-DEPT-UUID-HERE,"Cyber Security, Network Security, Cloud Computing, Programming in JAVA",5,25,0,0

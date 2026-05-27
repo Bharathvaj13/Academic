@@ -1,0 +1,19 @@
+[
+  { "id": 1, "name": "Dr S R R Senthilkumar", "dept": "Civil", "specialization": "Civil Engineering" },
+  { "id": 2, "name": "Dr R Malathy", "dept": "Civil", "specialization": "Civil Engineering" },
+  { "id": 3, "name": "Dr M N A Gulshan Taj", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 4, "name": "Dr D Jegatheeswaran", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 5, "name": "Dr M Logesh Kumar", "dept": "Civil", "specialization": "Construction Engineering and Management, Geopolymer Concrete" },
+  { "id": 6, "name": "Dr S Jagan", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 7, "name": "Dr K Raja", "dept": "Civil", "specialization": "Geotechnical Engineering" },
+  { "id": 8, "name": "Dr P Ashok Kumar", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 9, "name": "Dr M Adhiyaman", "dept": "Civil", "specialization": "Civil Engineering" },
+  { "id": 10, "name": "Dr S Kalaiselvi", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 11, "name": "Dr A Shalini", "dept": "Civil", "specialization": "Concrete Technology, Structural Engineering, Sustainable Materials" },
+  { "id": 12, "name": "Dr M Kasiviswanathan", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 13, "name": "Dr. N. Karuppusamy", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 14, "name": "Mrs S Saranya", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 15, "name": "Mrs A Meenachi", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 16, "name": "Dr M.Poornima", "dept": "Civil", "specialization": "Structural Engineering" },
+  { "id": 17, "name": "M.Govarthani", "dept": "Civil", "specialization": "Civil Engineering" }
+]

@@ -1,0 +1,149 @@
+{
+  "regulation": "2023",
+  "department": "Electronics and Communication Engineering",
+  "semester": "6",
+  "courses": {
+    "theory_courses": [
+      {
+        "s_no": 1,
+        "course_code": "U23EC601",
+        "course_title": "Machine Learning",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 2,
+        "course_code": "U23EC602",
+        "course_title": "Wireless Communication",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 3,
+        "course_code": "U23EC603",
+        "course_title": "Digital Image Processing",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 4,
+        "course_code": "U23EC604",
+        "course_title": "Computer Networks",
+        "category": "PC",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+
+      {
+        "s_no": 5,
+        "course_code": "U23EC941",
+        "course_title": "System on Chip Design",
+        "category": "PE",
+        "L": 2,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 60
+      },
+      {
+        "s_no": 6,
+        "course_code": "U23EC955",
+        "course_title": "Wireless Networks",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      },
+      {
+        "s_no": 7,
+        "course_code": "U23EC914",
+        "course_title": "Real Time Operating System",
+        "category": "PE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 60
+      },
+
+      {
+        "s_no": 8,
+        "course_code": "U23ADS1003",
+        "course_title": "Software Engineering",
+        "category": "OE",
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 3,
+        "contact_hours": 45
+      }
+    ],
+    "open_electives": [
+      { "course_code": "U23BM1002", "course_title": "Basic Life Support" },
+      { "course_code": "U23BM1004", "course_title": "Hospital Management" },
+      { "course_code": "U23CE1008", "course_title": "Municipal Solid Waste Management" },
+      { "course_code": "U23CE1009", "course_title": "Energy Efficiency and Green Building" },
+      { "course_code": "U23CS1010", "course_title": "Cloud Computing" },
+      { "course_code": "U23CS1011", "course_title": "Big Data Analytics" },
+      { "course_code": "U23EE1013", "course_title": "Energy Conservation and Auditing" },
+      { "course_code": "U23EE1021", "course_title": "Innovation, IPR and Entrepreneurship Development" },
+      { "course_code": "U23FT1001", "course_title": "Fundamentals of Fashion Design" },
+      { "course_code": "U23MC1008", "course_title": "Fundamentals of Robotics" },
+      { "course_code": "U23MC1009", "course_title": "Smart Automation" },
+      { "course_code": "U23ME1007", "course_title": "Renewable Energy Sources" },
+      { "course_code": "U23GE602C", "course_title": "Comprehension" }
+    ],
+    "practical_courses": [
+      {
+        "s_no": 9,
+        "course_code": "U23EC605",
+        "course_title": "Digital Image Processing Lab",
+        "category": "PC",
+        "L": 0,
+        "T": 0,
+        "P": 2,
+        "J": 0,
+        "credits": 1,
+        "contact_hours": 30
+      },
+      {
+        "s_no": 10,
+        "course_code": "U23GE601",
+        "course_title": "Soft Skills and Aptitude-IV",
+        "category": "EEC",
+        "L": 0,
+        "T": 0,
+        "P": 0,
+        "J": 0,
+        "credits": 0,
+        "contact_hours": 30
+      }
+    ],
+    "total_credits": 24
+  }
+}
