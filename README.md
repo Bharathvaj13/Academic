@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Academia — Faculty Timetable Management System
 
 A web-based academic timetable scheduling system built with **React + Vite + Supabase**.
@@ -101,3 +102,6 @@ src/
 │   └── ClassTimetableView.tsx
 └── App.tsx                 # Routing
 ```
+=======
+# Academic
+>>>>>>> 81a24f6e4129e7af0a7258f864e5aa4df72ae9cf
