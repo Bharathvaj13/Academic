@@ -1,9 +1,11 @@
 import json
 import glob
+import os
+
 from supabase import create_client, Client
 
-url = "https://nifgcsoewgzdhsmcaaxq.supabase.co"
-key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5pZmdjc29ld2d6ZGhzbWNhYXhxIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3NDA2MzQ1NCwiZXhwIjoyMDg5NjM5NDU0fQ.LcTZ-FLYrE8dZUDbSN9cbZL-K9W343LMYh442T19lCc"
+url = os.getenv("SUPABASE_URL")
+key = os.getenv("SUPABASE_KEY")
 supabase: Client = create_client(url, key)
 
 # Build expected courses from JSON
